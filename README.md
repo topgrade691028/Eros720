@@ -242,9 +242,6 @@ Alone we can do so little; together we can do so much.
   <br>
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=blackdragon1106&theme=monokai"/>
   </div>
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=blackdragon1106&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-  
   <br>
 </p>
 <hr>
