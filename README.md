@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/blackdragon1106"><img src="https://api.daily.dev/devcards/80025b8e2c894751aa27055e1b08dc5a.png?r=a6y" width="400" alt="BlackDragon's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/Eros1106"><img src="https://api.daily.dev/devcards/80025b8e2c894751aa27055e1b08dc5a.png?r=e6l" width="400" alt="Eros's Dev Card"/></a></p>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
