@@ -84,10 +84,6 @@ Alone we can do so little; together we can do so much.
 
 <hr/>
 
-<h2 align="center"> 👯Let's go together!👯 </h2>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<hr>
-<br>
 <h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
 <hr>
 <br>
