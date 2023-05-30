@@ -1,6 +1,6 @@
 <p align="center"><a href="https://app.daily.dev/Eros1106"><img src="https://api.daily.dev/devcards/80025b8e2c894751aa27055e1b08dc5a.png?r=o6w" width="400" alt="Eros's Dev Card"/></a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Black+Dragon.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Eros.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
 <h2 align="center">
     I WILL OFFER GOOD SOLUTION.
@@ -218,17 +218,17 @@ Alone we can do so little; together we can do so much.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=blackdragon1106&theme=react&border=61dafb&hide_border=true" alt="blackdragon" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Eros1106&theme=react&border=61dafb&hide_border=true" alt="blackdragon" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=blackdragon1106&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eros1106&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br>
   <div align=center>
   <br>
   <br>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=blackdragon1106&theme=monokai"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Eros1106&theme=monokai"/>
   </div>
   <br>
 </p>
