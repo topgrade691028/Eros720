@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/Eros1106"><img src="https://api.daily.dev/devcards/80025b8e2c894751aa27055e1b08dc5a.png?r=8o3" width="400" alt="Eros's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/Eros720"><img src="https://api.daily.dev/devcards/80025b8e2c894751aa27055e1b08dc5a.png?r=jfu" width="400" alt="Eros's Dev Card"/></a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Eros.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
