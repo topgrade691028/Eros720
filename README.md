@@ -228,7 +228,7 @@ Alone we can do so little; together we can do so much.
   <div align=center>
   <br>
   <br>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Eros1106&theme=monokai"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Eros720&theme=monokai"/>
   </div>
   <br>
 </p>
