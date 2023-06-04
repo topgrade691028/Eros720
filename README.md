@@ -218,10 +218,10 @@ Alone we can do so little; together we can do so much.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Eros1106&theme=react&border=61dafb&hide_border=true" alt="blackdragon" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Eros720&theme=react&border=61dafb&hide_border=true" alt="blackdragon" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eros1106&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eros720&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br>
